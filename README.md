@@ -4,6 +4,7 @@ This repository contains the code for a simple Tic Tac Toe game built using HTML
 
 Game Overview:
 Tic Tac Toe is a classic two-player game where players take turns marking spaces in a 3x3 grid. The objective of the game is to get three of your marks (either "X" or "O") in a horizontal, vertical, or diagonal row.
+
 How to Play:
 Two players take turns clicking on the cells of the grid to place their marks ("X" or "O"). The game will automatically detect a win or a draw and update the status accordingly. Click the "Reset" button to start a new game.
 Scoreboard: The scoreboard located below the game grid displays the current score, including the number of wins, losses, and ties for each player.
