@@ -1,0 +1,47 @@
+body {
+    background-color: bisque;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: vidaloka;
+} /* Corrected closing curly brace */
+
+#game-board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 10px;
+    margin-bottom: 20px;
+    width: 320px;
+    margin: 0 auto;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black; /* Set border to 1px solid black */
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    background-color: black; /* Set button background color to black */
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #333; /* Darken button color on hover */
+}
