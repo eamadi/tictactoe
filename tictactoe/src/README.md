@@ -28,6 +28,6 @@ Scoreboard: The scoreboard located below the game grid displays the current scor
 * index.html file: Sets up basic layout of webpage
 
 ## Contributors: 
-Emilie Amadi and David Sheleru
+* Emilie Amadi and David Sheleru
 
-Feel free to fork this repository and make any modifications or improvements as you see fit. Enjoy playing Tic Tac Toe!
+Feel free to fork this repository and make any modifications or improvements as you see fit! 
