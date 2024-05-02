@@ -1,7 +1,7 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
 ## Mission Statement: 
-* Our mission is to provide an immersive and enjoyable gaming experience through our Tic Tac Toe game for all ages. 
+Our mission is to provide an immersive and enjoyable gaming experience through our Tic Tac Toe game for all ages. 
 
 ## Game Overview:
 Tic Tac Toe is a classic two-player game where players take turns marking spaces in a 3x3 grid. The objective of the game is to get three of your marks (either "X" or "O") in a horizontal, vertical, or diagonal row.
@@ -22,12 +22,12 @@ Scoreboard: The scoreboard located below the game grid displays the current scor
 * script.js: Implements the game logic and functionality using JavaScript.
 
 ## Development Notes:
-* script.js file: Game Logic
-- cell clicks, check for winners, update the scoreboard, reset the game
+* script.js file: Game Logic 
+    - cell clicks, check for winners, update the scoreboard, reset the game
 * styles.css file: Styles for the game interface
 * index.html file: Sets up basic layout of webpage
 
 ## Contributors: 
-* Emilie Amadi and David Sheleru
+Emilie Amadi and David Sheleru
 
 Feel free to fork this repository and make any modifications or improvements as you see fit. Enjoy playing Tic Tac Toe!
