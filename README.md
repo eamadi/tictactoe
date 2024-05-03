@@ -10,6 +10,24 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
 Two players take turns clicking on the cells of the grid to place their marks ("X" or "O"). The game will automatically detect a win or a draw and update the status accordingly. Click the "Reset" button to start a new game.
 Scoreboard: The scoreboard located below the game grid displays the current score, including the number of wins, losses, and ties for each player.
 
+## Testing Procedure
+We tested each individual functions/methods and ensured they performed their intended tasks correctly, for example checking win conditions, updating the game board, and handling player moves were things we kept track of.
+
+Test Step 1:
+Set up our game board with a winning condition: three X's in a row.
+Call the function to check the win condition.
+Verify that the function returns true.
+Expected Result: The function should return true, indicating that a player has won.
+
+Test Step 2:
+ Verify that the function responsible for updating the game board correctly reflects player scores.
+Test Steps:
+After a game is completed.
+Call the function to update the game board.
+Verify that the game board reflects the player's move.
+Expected Result: The game board should be updated with the player's move.
+
+
 ## Features:
 * Two-player gameplay.
 * Dynamic updating of player turns and game status.
