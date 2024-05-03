@@ -28,14 +28,14 @@ Test Step 2:
 
 ## Features:
 * Two-player gameplay.
-* Dynamic updating of player turns and game status.
-* Scoreboard to keep track of wins, losses, and ties.
-* Reset button to start a new game.
+* Dynamic updating of player turns and game status
+* Scoreboard to keep track of wins, losses, and ties
+* Reset button to start a new game
 
 ## Files Included:
-* index.html: Contains the structure of the game interface using HTML.
-* styles.css: Defines the styling rules for the game interface.
-* script.js: Implements the game logic and functionality using JavaScript.
+* index.html: Contains the structure of the game interface using HTML
+* styles.css: Defines the styling rules for the game interface
+* script.js: Implements the game logic and functionality using JavaScript
 
 ## Development Notes:
 * script.js file: Game Logic 
