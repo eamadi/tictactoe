@@ -31,6 +31,6 @@ Scoreboard: The scoreboard located below the game grid displays the current scor
 * Emilie Amadi: Responsible for the creation of the CSS portion of this project
 * David Sheleru: Responsible for the creation of the JS portion of this project
 * Both contributors participated in the adaptation of the HTML
-* Please note: Program was originally made on VS Code, but due to technical issues, files were moved here
+* Please note, program was originally made on VS Code, but due to technical issues, files were moved here
 
 Feel free to fork this repository and make any modifications or improvements as you see fit! 
