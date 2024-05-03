@@ -49,4 +49,12 @@ Test Step 2:
 * Both contributors participated in the adaptation of the HTML
 * Please note, program was originally made on VS Code, but due to technical issues, files were moved here
 
+## Future Improvements:
+* Adding animations or sound effects for a more interactive experience
+* Adding Human vs AI or
+* Optimizing the code for better performance and readability
+* Improving layout of the website
+* Adding other games on the website
+
+
 Feel free to fork this repository and make any modifications or improvements as you see fit! 
