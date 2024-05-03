@@ -44,6 +44,9 @@ Test Step 2:
 * index.html file: Sets up basic layout of webpage
 
 ## Contributors: 
-* Emilie Amadi and David Sheleru
+* Emilie Amadi: Responsible for the creation of the CSS portion of this project
+* David Sheleru: Responsible for the creation of the JS portion of this project
+* Both contributors participated in the adaptation of the HTML
+* Please note, program was originally made on VS Code, but due to technical issues, files were moved here
 
 Feel free to fork this repository and make any modifications or improvements as you see fit! 
