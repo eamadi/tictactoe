@@ -11,15 +11,15 @@ Two players take turns clicking on the cells of the grid to place their marks ("
 Scoreboard: The scoreboard located below the game grid displays the current score, including the number of wins, losses, and ties for each player.
 
 ## Features:
-* Two-player gameplay.
-* Dynamic updating of player turns and game status.
-* Scoreboard to keep track of wins, losses, and ties.
-* Reset button to start a new game.
+* Two-player gameplay
+* Dynamic updating of player turns and game status
+* Scoreboard to keep track of wins, losses, and ties
+* Reset button to start a new game
 
 ## Files Included:
-* index.html: Contains the structure of the game interface using HTML.
-* styles.css: Defines the styling rules for the game interface.
-* script.js: Implements the game logic and functionality using JavaScript.
+* index.html: Contains the structure of the game interface using HTML
+* styles.css: Defines the styling rules for the game interface
+* script.js: Implements the game logic and functionality using JavaScript
 
 ## Development Notes:
 * script.js file: Game Logic 
@@ -29,7 +29,8 @@ Scoreboard: The scoreboard located below the game grid displays the current scor
 
 ## Contributors: 
 * Emilie Amadi: Responsible for the creation of the CSS portion of this project
-*  David Sheleru: Responsible for the creation of the JS portion of this project
-*  Both contributors participated in the adaptation of the HTML
+* David Sheleru: Responsible for the creation of the JS portion of this project
+* Both contributors participated in the adaptation of the HTML
+* Please note: Program was originally made on VS Code, but due to technical issues, files were moved here
 
 Feel free to fork this repository and make any modifications or improvements as you see fit! 
